@@ -25,13 +25,13 @@ Using correlation method, dropping columns with correlation less than 0.1 with t
 	Appling Decision Tree with: accuracy = 83%, precision = 80%, F1-score = 84% and confusion matrix = ⌊(45708 12641 6587 51691)⌋  
 	Appling Svm (with under-sampling) with: accuracy = 72.4%, precision = 70.8%, F1-score = 73.6% and confusion matrix = ⌊(7129 3339 2468 8123)⌋
 
-![data set](https://user-images.githubusercontent.com/103465018/177391529-f146716f-6b52-4bfc-b020-284d0907ae1f.PNG)
-![random forest](https://user-images.githubusercontent.com/103465018/177391596-8ebb5603-02c8-4a02-af8c-cd302f3ce083.PNG)
-![svm](https://user-images.githubusercontent.com/103465018/177391599-2a685974-0eff-4954-bda0-29c01678b864.PNG)
-![de](https://user-images.githubusercontent.com/103465018/177391602-9bd582ad-5276-4179-af09-7b0a91091897.PNG)
-![decision tree](https://user-images.githubusercontent.com/103465018/177391603-2a7565a2-2e5c-4589-a19f-06676771e1ef.PNG)
-![describtion](https://user-images.githubusercontent.com/103465018/177391606-52b58abb-c854-438d-941e-76bd24f9d56f.PNG)
-![logistic](https://user-images.githubusercontent.com/103465018/177391607-84ccb1b3-48d5-4bab-b68c-85d139032cc5.PNG)
+![data set](https://user-images.githubusercontent.com/103465018/177391962-6f286d3f-1d7c-4069-b26e-02cfb759481d.PNG)
+![describtion](https://user-images.githubusercontent.com/103465018/177391982-64f53610-4dc4-4761-b253-3a882fb277f8.PNG)
+![de](https://user-images.githubusercontent.com/103465018/177391994-ab82841e-b112-47ac-850b-06e477913bc1.PNG)
+![logistic](https://user-images.githubusercontent.com/103465018/177392010-f6cccedb-d332-4c73-b66d-bc5452267453.PNG)
+![decision tree](https://user-images.githubusercontent.com/103465018/177392023-c2ce7e4e-cad9-43d7-bff4-5abd8affd835.PNG)
+![random forest](https://user-images.githubusercontent.com/103465018/177392034-5ba586de-6fa6-4c6b-9a07-29c5c4c4260b.PNG)
+![svm](https://user-images.githubusercontent.com/103465018/177392047-21361ec6-584d-42d4-8538-d2dd661b20d1.PNG)
 
 
 
