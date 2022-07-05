@@ -44,19 +44,32 @@ This project uses supervised learning, using classification methods.
 
 ## Screenshots
 ![data set](https://user-images.githubusercontent.com/103465018/177391962-6f286d3f-1d7c-4069-b26e-02cfb759481d.PNG)
- Data Set Visualization 
+
+ - Data Set Visualization 
+ 
 ![describtion](https://user-images.githubusercontent.com/103465018/177391982-64f53610-4dc4-4761-b253-3a882fb277f8.PNG)
- Data Set Decsribtion
+
+ - Data Set Decsribtion
+ 
 ![de](https://user-images.githubusercontent.com/103465018/177391994-ab82841e-b112-47ac-850b-06e477913bc1.PNG)
- Correlation Graph Plot
+
+ - Correlation Graph Plot
+ 
 ![logistic](https://user-images.githubusercontent.com/103465018/177392010-f6cccedb-d332-4c73-b66d-bc5452267453.PNG)
- Logistic Regression Algorithm
+
+ - Logistic Regression Algorithm
+ 
 ![decision tree](https://user-images.githubusercontent.com/103465018/177392023-c2ce7e4e-cad9-43d7-bff4-5abd8affd835.PNG)
- Decision Tree Algorithm
+
+ - Decision Tree Algorithm
+ 
 ![random forest](https://user-images.githubusercontent.com/103465018/177392034-5ba586de-6fa6-4c6b-9a07-29c5c4c4260b.PNG)
- Random Forest Algorithm
+
+ - Random Forest Algorithm
+ 
 ![svm](https://user-images.githubusercontent.com/103465018/177392047-21361ec6-584d-42d4-8538-d2dd661b20d1.PNG)
- SVM Algorithm
+
+ - SVM Algorithm
 
 
 
