@@ -5,6 +5,7 @@ Our project (Diabetes Binary Health Indicators) used to determine whether the pe
 This project uses supervised learning, using classification methods.
 
 Firstly, we made data preprocessing includes: 
+
 	1.Data cleaning (removing nulls if exist, removing duplicates)
 	
 	2.Splitting data into Features (x) and Target (y)
@@ -16,6 +17,7 @@ Firstly, we made data preprocessing includes:
 	5.Appling standard-scaling on X-features to make processing easier 
 
 Secondly, we applied Algorithms before Feature selection:
+
 	1.Splitting data into Test data (30%) & Train data (70%)
 	
 	2.Appling Logistic regression with: accuracy = 73%, precision= 72%, F1-score = 73% and confusion matrix = [(41463 16886 14439 43839)]
@@ -27,6 +29,7 @@ Secondly, we applied Algorithms before Feature selection:
 	5.Appling Svm (with under-sampling) with: accuracy = 73%, precision = 71%, F1-score = 74% andconfusion matrix = ⌊(7180 3288 2405 8186)⌋
 	
 Thirdly, we applied Algorithms After Feature selection Using correlation method, dropping columns with correlation less than 0.1 with target column (Diabetes binary) Taking 10 features:
+
 	1.Visualizing correlation of all data in a diagram 
 	
 	2.Splitting data into Test data (30%) & Train data (70%)
