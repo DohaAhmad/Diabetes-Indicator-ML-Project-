@@ -1,4 +1,4 @@
-# Diabetes-Indicator-Machine-Learning-Project-
+# Diabetes-Indicator-Machine-Learning-Project
  Machine Learning project
  Project Name: Diabetes Binary Health Indicators
  Our project (Diabetes Binary Health Indicators) used to determine whether the person is suffering from diabetes or not based on some data.
