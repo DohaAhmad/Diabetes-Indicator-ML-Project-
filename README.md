@@ -1,5 +1,4 @@
 # Diabetes-Indicator-Machine-Learning-Project
-Diabetes-Indicator-Machine-Learning-Project
 Machine Learning project name: Diabetes Binary Health Indicators Our project (Diabetes Binary Health Indicators) is used to determine whether a person is suffering from diabetes or not based on some data. This project uses supervised learning, using classification methods.
 
 Firstly, we made data preprocessing includes the following:
